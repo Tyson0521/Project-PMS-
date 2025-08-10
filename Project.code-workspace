@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "PMS DB"
+		},
+		{
+			"path": "PMS Java API"
+		},
+		{
+			"path": "PMS Web"
+		},
+		{
+			"path": "PMS Deploy"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
